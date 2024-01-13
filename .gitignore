@@ -1,3 +1,4 @@
+recover.dist
 *.py[co]
 __pycache__/
 
